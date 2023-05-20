@@ -25,3 +25,5 @@ Team Members:
 *   [Palak Singh](https://github.com/Palak-13)
 *   [Ragini Rani](https://github.com/ragini6)
 *   [Pragati Tomar](https://github.com/PragatiTomar)
+
+DEMO: https://github.com/PragatiTomar/Project-KANCHI-Empowering-her/blob/main/idea/KANCHI.mp4
